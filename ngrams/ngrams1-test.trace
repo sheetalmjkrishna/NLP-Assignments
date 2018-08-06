@@ -1,0 +1,47 @@
+Hi! This is an ngram parser. Please enter your arguments in the following way:
+
+ngrams <training file> -test <test file> 
+ OR 
+ngrams <training file> -gen <seeds file> 
+
+ 
+ S = wolf
+
+Unsmoothed Unigrams, Logspace(S) : -11.4522
+Unsmoothed Bigrams, Logspace(S) : -12.4375
+Smoothed Bigrams, Logspace(S) : -12.8261
+
+ 
+ S = in the jungle
+
+Unsmoothed Unigrams, Logspace(S) : -22.0357
+Unsmoothed Bigrams, Logspace(S) : -15.3101
+Smoothed Bigrams, Logspace(S) : -18.9393
+
+ 
+ S = rustle in the grass .
+
+Unsmoothed Unigrams, Logspace(S) : -43.1179
+Unsmoothed Bigrams, Logspace(S) : undefined
+Smoothed Bigrams, Logspace(S) : -51.747
+
+ 
+ S = what could go wrong ?
+
+Unsmoothed Unigrams, Logspace(S) : -48.2676
+Unsmoothed Bigrams, Logspace(S) : -35.3043
+Smoothed Bigrams, Logspace(S) : -55.0869
+
+ 
+ S = i swear i am not making this up .
+
+Unsmoothed Unigrams, Logspace(S) : -82.8339
+Unsmoothed Bigrams, Logspace(S) : undefined
+Smoothed Bigrams, Logspace(S) : -21.6758
+
+ 
+ S = but old mr. toad will leave one day .
+
+Unsmoothed Unigrams, Logspace(S) : -78.5045
+Unsmoothed Bigrams, Logspace(S) : undefined
+Smoothed Bigrams, Logspace(S) : -28.9304

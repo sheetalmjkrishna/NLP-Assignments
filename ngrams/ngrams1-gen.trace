@@ -1,0 +1,77 @@
+Hi! This is an ngram parser. Please enter your arguments in the following way:
+
+ngrams <training file> -test <test file> 
+ OR 
+ngrams <training file> -gen <seeds file> 
+
+
+ Seed = she:
+
+1. she could easily .
+
+2. she fumbled in from the iron .
+
+3. she climbed to the sleighing was running home the barren
+
+4. she wore grand to the tasks which puzzled , open
+
+5. she was because he mists lingering , knowing eyes by
+
+6. she to turn into action enough , knowing in his
+
+7. she would never can answer .
+
+8. she could overtake the king 's teaching him about something
+
+9. she was time her man said old stephen to do
+
+10. she found himself be miserable man came swiftly away they
+
+
+
+ Seed = i:
+
+1. i bagheera into his lip was standing thicket near the
+
+2. i pity you yourself .
+
+3. i rrrt !
+
+4. i frances gently , remarking that surface of buying his
+
+5. i `` bandar-log never asked the plums are king refuses
+
+6. i rrrt !
+
+7. i sleep as he crackling sound grew higher than me
+
+8. i sullenly and his head : only trouble she went
+
+9. i day .
+
+10. i and agreeable to the window was dusk , rocking
+
+
+
+ Seed = old:
+
+1. old !
+
+2. old herself visible .
+
+3. old you .
+
+4. old stumpy-tailed albatross , winnie , knowing it to prowl
+
+5. old him or of the crackling sound grew enthusiastic over
+
+6. old before him cry of her happiness to the seals
+
+7. old man among the price for some fashion in a
+
+8. old days ; send somebody ought to meet is mean
+
+9. old .
+
+10. old linen for mowgli walked up and many times over
+
